@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/circle.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link type="text/css" rel="stylesheet" media="screen" href="style.css" />
+    <script src="https://code.iconify.design/3/3.1.0/iconify.min.js"></script>
+    <title>Woop!</title>
+  </head>
+  <body>
+    <main>
+      <div id="loader"><span class="iconify" data-icon="svg-spinners:wind-toy" data-inline="false" style="color: #888888"></span></div>
+      <div class="hero" id="hero">
+        <h1>Woops!</h1>
+        <p>Chat with wooopers wherever they are in the world!</p>
+        <button id="joinBtn">Go Wooping!</button>
+      </div>
+      <div id="stream-wrapper">
+          <div id="video-streams"></div>
+
+          <div id="stream-controls">
+              <button id="micBtn">
+                <span class="iconify" data-icon="raphael:mic" data-inline="false"></span>
+                <span class="iconify hidden" data-icon="raphael:micmute" data-inline="false"></span>
+              </button>
+              <button id="cameraBtn">
+                <span class="iconify" data-icon="ic:sharp-photo-camera" data-inline="false"></span>
+                <span class="iconify hidden" data-icon="ic:sharp-no-photography" data-inline="false"></span>
+              </button>
+              <button id="leaveBtn">Leave Stream</button>
+          </div>
+      </div>
+    </main>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
