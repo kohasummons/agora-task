@@ -1,7 +1,10 @@
 # woop-agora
 
-Agora Ambassadorship Program Task.
-Woop is chill zone where you can chat with random woopers in the world. Also, It's a tiny PoC built using Agora Video SDK. Let's go a-wooooping!
+:zap: ~ Agora Ambassadorship Program Task.
+
+[Woop](https://woop-agora.vercel.app) is chill zone where you can chat with random woopers in the world. 
+
+A tiny PoC built using Agora Video SDK. Go wooooping!
 
 ## Stack
 
