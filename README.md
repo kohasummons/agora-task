@@ -4,7 +4,7 @@
 
 ![Agora and WOop](/public/Agroaxwoop.svg)
 
-[Woop](https://woop-agora.vercel.app) is chill zone where you can chat with random woopers in the world. 
+[Woop](https://woop-agora.vercel.app) is a chill zone where you can chat with random woopers in the world. 
 
 A tiny PoC built using Agora Video SDK. Go wooooping!
 
